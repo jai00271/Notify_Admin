@@ -1,0 +1,12 @@
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\bin\Debug\Notify_Trial.exe.config
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\bin\Debug\Notify_Trial.exe
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\bin\Debug\Notify_Trial.pdb
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\obj\Debug\Notify_Trial.csprojAssemblyReference.cache
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\obj\Debug\Notify_Trial.Form1.resources
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\obj\Debug\Notify_Trial.Properties.Resources.resources
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\obj\Debug\Notify_Trial.csproj.GenerateResource.cache
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\obj\Debug\Notify_Trial.csproj.CoreCompileInputs.cache
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\obj\Debug\Notify_Trial.csproj.CopyComplete
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\obj\Debug\Notify_Trial.exe
+C:\Users\Pradeepta_Ranjan_Cho\Documents\Notify_Trial\Notify_Trial\obj\Debug\Notify_Trial.pdb
