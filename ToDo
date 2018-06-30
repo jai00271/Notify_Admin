@@ -1,0 +1,13 @@
+Available features:
+
+1. A simple application which client will consume and a simple application through which admin can push notification.
+2. When client clicks on the notification he will be redirected to a selected page.
+3. Will work only from Dell network.
+
+Future enhancement:
+
+1. Customizable URL.
+2. Customizable Image.
+3. More control over Admin app.
+4. Security for Admin app.
+5. Notification Tray.
